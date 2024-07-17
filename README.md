@@ -6,7 +6,7 @@ past tests folder of our Univercity.Read readme!!
 https://93.gigafile.nu/0722-qe75fd7f72bb37a08e117e38f23c81abe
 
 # パスフレーズ
-貴方の大学の頭文字のみ大文字にしたときのアルファベットです。
+貴方の大学の頭文字のみ大文字にしたときのアルファベットです。一文字ではありません。
 
 # ファイルの複合方法
 1.過去問ファイルをダウンロード
