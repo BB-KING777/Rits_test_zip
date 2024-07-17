@@ -1,2 +1,2 @@
 # Rits_test_zip
-past tests folder of Ritsumeikan Univercity.Read readme!!
+past tests folder of our Univercity.Read readme!!
